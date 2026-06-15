@@ -1,0 +1,10 @@
+{
+  "domain": "pro",
+  "subdomain": "inspiretd",
+  "owner": {
+    "username": "inspirwtd"
+  },
+  "records": {
+    "A": ["185.27.134.11"]
+  }
+}
